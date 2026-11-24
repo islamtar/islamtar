@@ -7,3 +7,4 @@ General accountant with hands-on experience in financial management, auditing an
 ## Links
 
 - LinkedIn: [islam-tareq-acc](https://www.linkedin.com/in/islam-tareq-acc)
+- Portfolio: [islamtar.github.io/islamtareq.github.io](https://islamtar.github.io/islamtareq.github.io/)
