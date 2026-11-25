@@ -1,10 +1,10 @@
 <div align="center">
-  <img src="1-banner.png" alt="Islam Tareq, General Accountant" width="100%">
+  <img src="7-banner.png" alt="Islam Tareq, General Accountant" width="100%">
 </div>
 
 <table>
 <tr>
-<td width="200" align="center"><img src="2-portrait-circle.png" alt="Islam Tareq" width="180"></td>
+<td width="200" align="center"><img src="8-portrait-circle.png" alt="Islam Tareq" width="180"></td>
 <td>
 
 <b>General accountant</b> with hands-on experience in financial management, auditing and reporting. I handle daily accounting operations, financial reports and inventory audits, and I use advanced Excel and Pivot Tables to turn numbers into clear reports. My goal is to grow into financial analysis and consultancy.
