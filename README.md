@@ -2,21 +2,16 @@
   <img src="7-banner.png" alt="Islam Tareq, General Accountant" width="100%">
 </div>
 
-<table>
-<tr>
-<td width="200" align="center"><img src="8-portrait-circle.png" alt="Islam Tareq" width="180"></td>
-<td>
+<div align="center">
+  <img src="8-portrait-circle.png" alt="Islam Tareq" width="180">
+</div>
 
-<b>General accountant</b> with hands-on experience in financial management, auditing and reporting. I handle daily accounting operations, financial reports and inventory audits, and I use advanced Excel and Pivot Tables to turn numbers into clear reports. My goal is to grow into financial analysis and consultancy.
+<p align="center"><b>General accountant</b> with hands-on experience in financial management, auditing and reporting. I handle daily accounting operations, financial reports and inventory audits, and I use advanced Excel and Pivot Tables to turn numbers into clear reports. My goal is to grow into financial analysis and consultancy.</p>
 
-<br>
-
-<a href="https://www.linkedin.com/in/islam-tareq-acc"><img src="https://img.shields.io/badge/LinkedIn-islam--tareq--acc-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-<a href="https://islamtar.github.io/islamtareq.github.io/"><img src="https://img.shields.io/badge/Portfolio-CV%20website-C9A84C?style=for-the-badge&logoColor=black" alt="Portfolio"></a>
-
-</td>
-</tr>
-</table>
+<p align="center">
+  <a href="https://www.linkedin.com/in/islam-tareq-acc"><img src="https://img.shields.io/badge/LinkedIn-islam--tareq--acc-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://islamtar.github.io/islamtareq.github.io/"><img src="https://img.shields.io/badge/Portfolio-CV%20website-C9A84C?style=for-the-badge&logoColor=black" alt="Portfolio"></a>
+</p>
 
 ## Experience
 
